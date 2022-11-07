@@ -1,0 +1,2 @@
+git conflig  --global.user name "your user name:
+git conflig  --global.user password "your user password"
